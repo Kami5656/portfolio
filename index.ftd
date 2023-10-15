@@ -35,7 +35,7 @@ height: hug-content
 ;;-------Change the logo and add your own logo, while changing remember to change the path-------------------------
 ;;-----------------------------------------------------------------------------------------------------------------
 
--- navheader.navbar: Elias
+-- navheader.navbar: soham
 logo: $assets.files.images.logo.svg
 homelink: <homepage_link>
 aboutlink: <aboutpage_link>
